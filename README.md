@@ -7,7 +7,7 @@ This bash script defines a function for creating a [Debian](https://www.debian.o
 like chroot environment, using [QEMU](http://wiki.qemu.org/) for emulating
 non-native hardware.
 
-It's been tested on Ubuntu based systems, such as used in [Travis CI](travis-ci.org).
+It's been tested on Ubuntu based systems, such as used in [Travis CI](http://travis-ci.org).
 
 Usage
 -----
